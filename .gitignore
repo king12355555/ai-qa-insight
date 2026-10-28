@@ -1,0 +1,11 @@
+# 本地配置与数据（含 API Key，禁止提交）
+config.json
+insights.db
+
+# Python
+__pycache__/
+*.py[cod]
+
+# IDE
+.idea/
+.vscode/
